@@ -262,20 +262,7 @@ footer p a:hover {
     width: 53%;
   }
 }
-@media screen and (max-width: 1068px) and (min-width: 1068px) {
-  .container {
-    width: 90%;
-  }
-
-  .image .paragraph {
-    width: 62%;
-  }
-
-  .instructions .information {
-    width: 62%;
-  }
-}
-@media screen and (max-width: 411px) {
+@media screen and (max-width: 790px) {
   .container {
     width: 95%;
   }
