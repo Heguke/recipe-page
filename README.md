@@ -6,15 +6,15 @@
 
 <div align="center">
   <h3>
-    <a href="https://kelex21.github.io/recipe_page/">
+    <a href="https://kelex-21.github.io/recipe-page/">
       Demo
     </a>
     <span> | </span>
-    <a href="https://devchallenges.io/solutions/HNH94fJlWQrlLDfauBhr">
+    <a href="https://devchallenges.io/solutions/OcbBB62vL9kxZhWkyyaF">
       Solution
     </a>
     <span> | </span>
-    <a href="https://devchallenges.io/challenges/OEKdUZ6xs0h99C38XVht">
+    <a href="https://github.com/Kelex-21/recipe-page">
       Challenge
     </a>
   </h3>
