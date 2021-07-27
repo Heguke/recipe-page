@@ -6,7 +6,7 @@
 
 <div align="center">
   <h3>
-    <a href="https://kegubits.github.io/recipe-page/">
+    <a href="https://heguke.github.io/recipe-page/">
       Demo
     </a>
     <span> | </span>
@@ -47,5 +47,5 @@ This application/site was created as a submission to a [DevChallenges](https://d
 
 ## Contact
 
-- GitHub [@Kegubits](https://github.com/Kegubits)
-- Twitter [@Kegubits](https://twitter.com/Kegubits)
+- GitHub [@Heguke](https://github.com/heguke)
+- Twitter [@Heguke21](https://twitter.com/heguke)
